@@ -30,6 +30,8 @@ y presiona "Enter" para iniciar la búsqueda.
 
 Los resultados se mostrarán en la consola.
 
+[![IMG-20230121-220850.jpg](https://i.postimg.cc/zvRbHkTT/IMG-20230121-220850.jpg)](https://postimg.cc/CnSLWkPK)
+
 # Redes sociales:
 
 Sígueme en TikTok @kadaveryunk, 
