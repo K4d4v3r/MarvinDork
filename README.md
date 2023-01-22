@@ -1,4 +1,4 @@
-MarvinDork:
+#MarvinDork:
 
 MarvinDork es un proyecto enfocado en 
 utilizar el motor de búsqueda de Google 
@@ -7,7 +7,7 @@ para automatizar búsquedas utilizando "dorks".
 Con MarvinDork, puedes encontrar información valiosa de manera 
 rápida y sencilla.
 
-Instalación: 
+#Instalación: 
 
 Para instalar MarvinDork, debes tener Python3 
 instalado en tu equipo. Luego, debes descargar 
@@ -19,7 +19,7 @@ Una vez instaladas las dependencias,
 puedes ejecutar el script de MarvinDork 
 con el comando python3 MarvinDork.py.
 
-Uso:
+#Uso:
 
 Una vez ejecutado el script, 
 se te pedirá que ingreses el "dork" 
@@ -30,7 +30,7 @@ y presiona "Enter" para iniciar la búsqueda.
 
 Los resultados se mostrarán en la consola.
 
-Redes sociales:
+#Redes sociales:
 
 Sígueme en TikTok @kadaveryunk, 
 En Youtube https://youtube.com/@kadavertmux y 
